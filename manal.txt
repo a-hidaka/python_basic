@@ -1,0 +1,13 @@
+#venvアクティベート(立ち上げる時)
+source　venv/bin/activate
+. .venv/bin//activate
+
+ディアクティベート
+deactivate
+
+#移行？
+\cd 
+\ls
+
+
+pip3 list
